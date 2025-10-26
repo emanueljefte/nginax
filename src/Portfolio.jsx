@@ -344,7 +344,7 @@ function Portfolio() {
         </section>
         {/* PORTFOLIO */}
         <section id="portfolio" className="bg-[#e5e5e5] pt-8 pb-19">
-          <div className=" bg-[url('/images/portfolio/Arquitectura-7.jpeg')] bg-no-repeat bg-cover">
+          <div className=" bg-[url('https://res.cloudinary.com/dlvbn3yn6/image/upload/v1761481218/images/portfolio/Arquitectura-10_gc2ieh.jpg')] bg-no-repeat bg-cover">
             <div className="flex flex-col md:flex-row py-40 gap-y-6 justify-around items-center bg-[#131466]/80">
               <div>
                 <button
@@ -455,3 +455,4 @@ function Portfolio() {
 }
 
 export default Portfolio;
+

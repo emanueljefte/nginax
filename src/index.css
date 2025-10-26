@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+* {
+  box-sizing: border-box;
+  font-family: 'Arial';
+}
+
+@font-face {
+  font-family: 'pirates';
+  src: url(./assets/fonts/Pirates.otf);
+}
+
+.font-pirates {
+  font-family: 'pirates';
+}
+
+.my-color {
+  color: #131466
+}
